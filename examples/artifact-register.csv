@@ -1,0 +1,7 @@
+artifact_id,project_id,kind,locator,version_ref,access_scope,owner_role,verified_on,retention_until,verification_state
+A-C01,H-01,scenario_record,examples/continue.md,training-v1,public_synthetic,process_owner,2026-10-07,2026-10-14,fictional
+A-C02,H-01,observations,examples/observations.csv,training-v1,public_synthetic,reviewer,2026-10-07,2026-10-14,fictional
+A-C03,H-01,decision_log,examples/decision-log.csv,training-v1,public_synthetic,process_owner,2026-10-07,2026-11-07,fictional
+A-S01,H-02,scenario_record,examples/stop.md,training-v1,public_synthetic,process_owner,2026-10-07,2026-10-14,fictional
+A-S02,H-02,observations,examples/observations.csv,training-v1,public_synthetic,reviewer,2026-10-07,2026-10-14,fictional
+A-S03,H-02,decision_log,examples/decision-log.csv,training-v1,public_synthetic,process_owner,2026-10-07,2026-11-07,fictional

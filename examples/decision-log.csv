@@ -1,0 +1,3 @@
+decision_id,project_id,experiment_id,decided_on,decision,owner_role,planned_attempts,started_attempts,successes,baseline_started,baseline_successes,stop_triggered,evidence_artifact_ids,next_action,due_on
+D-C01,H-01,E-C01,2026-10-07,continue,process_owner,6,6,5,6,3,0,A-C01|A-C02|A-C03,Согласованно подготовить новую карточку E-C02 и шесть иных синтетических задач,2026-10-10
+D-S01,H-02,E-S01,2026-10-07,stop,process_owner,4,3,2,4,3,1,A-S01|A-S02|A-S03,Подтвердить выключение помощника и возврат к письменной таблице,2026-10-08
